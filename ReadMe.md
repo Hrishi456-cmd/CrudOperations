@@ -1,73 +1,27 @@
-
-
-## Instagram
+## ToDo App
 
 * SpringBoot Java code using JAVA
 
 
 ## controller
 
-AdminController
-
-UserController
+* TodoController
 
 
 ## service
 
-UserService
-
-AdminService
-
-AuthenticationTokenService
-
-CommentService
-
-FollowService
-
-LikeService
-
-PostService
+* TodoService
 
 
 ## repository
 
-IUserRepo
-
-IAdminRepo
-
-IAuthenticationTokenRepo
-
-ICommentRepo
-
-IFollowRepo
-
-ILikeRepo
-
-IPostRepo
+* TodoRepo
 
 
 ## model
 
-*  dto
+* Todo
 
-SignInInput
-
-SignUpOutput
-
-* enums
-User
-
-Admin
-
-Authentication Token
-
-Comment
-
-Follow
-
-Like 
-
-Post
 
 
 
